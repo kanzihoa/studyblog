@@ -1,2 +1,0 @@
-# studyblog
-my study blog
