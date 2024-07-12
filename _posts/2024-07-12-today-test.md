@@ -1,8 +1,8 @@
 ---
-title: Text and Typography
+title: 오늘의 jeklly 테스트
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
-date: 2019-08-08 11:33:00 +0800
+date: 2024-07-12 14:38:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
@@ -114,6 +114,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 ### Common
 
 ```text
+이것은 공통 코드 
 This is a common code snippet, without syntax highlight and line number.
 ```
 
